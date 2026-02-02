@@ -1,3 +1,7 @@
+---
+title: ""
+---
+
 # Exploring Inequality In Performance Of Different Rail Operators In The UK (IJC445 Data Visualisation)
 
 This project is dedicated to the module Data Visualisation, undertaken during the first semester of MSc Data Science at the University of Sheffield.
